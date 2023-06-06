@@ -1,0 +1,45 @@
+{
+    "user": [
+      {
+        "fullname": "abc",
+        "email": "a@gmail.com",
+        "password": "a1234",
+        "id": 1,
+        "tracker": 1
+      }
+    ],
+    "tracker": [
+      {
+        "fullname": "abc",
+        "type": "",
+        "category": "",
+        "amount": 0,
+        "date": "",
+        "id": 1
+      },
+      {
+        "fullname": "abc",
+        "type": "",
+        "category": "",
+        "amount": 0,
+        "date": "",
+        "id": 2
+      },
+      {
+        "fullname": "abc",
+        "type": "",
+        "category": "",
+        "amount": 0,
+        "date": "",
+        "id": 3
+      },
+      {
+        "fullname": "abc",
+        "type": "",
+        "category": "",
+        "amount": 0,
+        "date": "",
+        "id": 4
+      }
+    ]
+  }
